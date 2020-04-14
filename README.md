@@ -1,13 +1,13 @@
 # FORR3CG Vor 2020 - Lokaverkefni (35%)
 Áður en lengra er haldið skalt þú stofna nýtt **private** repo á github og bjóða *gestskoli* inn sem collaberator. Farðu svo inn á Innu og skila slóðinni að repo-inu í **Lokaverkefni** skilahólfið.
 ## Almennar reglur varðandi verkefnið
- - Verkefnið er einstaklingsverkefni.Ef tveir eða fleiri nemendur skila sömulausnunum er gefið 0 (núll) fyrir þær lausnir.
+ - Verkefnið er einstaklingsverkefni. Ef tveir eða fleiri nemendur skila sömu lausnunum er gefið 0 (núll) fyrir þær lausnir.
    - Athugið að vegna samkomubanns verður ekki boðið upp á hópverkefni þessa önnina.
  - Ef kóði er tekinn af netinu (eða öðrum álíka stöðum) skal taka það fram, benda á hvaðan hann kemur og skrifa skýringar (e. comment) við hverja línu kóðans. Almennt eru ekki gefin stig fyrir kóða sem tekinn er af netinu en hann getur samt gefið örfá stig ef hann er t.d. til að bæta útlit forritsins.
  - Ekki er heimilt að nota tilbúnar lausnir fyrir listann. Notið ekki auto og allir bendar (e. pointer) skulu vera hráir (e. raw).
  - Allur kóði skal skrifaður í C++.
 ### Skýrsla
-Halda skal utan um verkefnið á github. Þar á að vera allur kóði ásamt dagbók og skýrslu. Í dagbókinni á að halda utan um hvað er gert og hvenær (ef eitthvað er ekki í dagbókinni þá er það ekki í verkefninu). Skýrslan er svo stutt samantekt á dagbókinni á samt útskýringum á hvernig forritið ykkar vinnur. Þar eiga líka að vera leiðbeiningar fyrir viðmótið sem þið skrifið.
+Halda skal utan um verkefnið á github. Þar á að vera allur kóði ásamt dagbók og skýrslu. Í dagbókinni á að halda utan um hvað er gert og hvenær (ef eitthvað er ekki í dagbókinni þá er það ekki í verkefninu). Skýrslan er svo stutt samantekt á dagbókinni á samt útskýringum á hvernig forritið ykkar vinnur. Þar eiga líka að vera leiðbeiningar fyrir viðmótið sem þið skrifið. Skilið einnig stuttu myndbandi (screencapture) þar sem virkni forritsins er sýnd.
 ## Bókasafnskerfi
 Bókasafn Tölvubrautar vantar forrit (skrifað í C++) til að halda utan um safnkost sinn. Í dag eru í bókasafninu bækur, tímarit og myndbönd. Fyrir hver safnkost þarf að skrá *id* (heiltala) og *titil* (strengur) en svo er mismunandi hvað meira er skráð eftir hvernig safnkosturinn er. Fyrir bækur bætist svo við *höfundur* (strengur), fyrir tímarit bætist við *tölublað* (heiltala) og fyrir myndbönd bætist við *lengd* (heiltala) í mínútum. Forritið þarf að geta skráð, uppfært (breytt), eytt og skrifað út á skjá safnkosti sem til eru.
 ### Grunnkröfur
