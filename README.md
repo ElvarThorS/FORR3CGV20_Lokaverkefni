@@ -28,7 +28,7 @@ Fullkomin lausn á grunnkröfum gefur 60 stig.
   * Hafðu notendaviðmótið sem svipuðu sniði og í [Flightbooking](https://nam.inna.is/api/Attachment/DownloadFile/407198/536375) æfingaverkefninu.
 ### Dæmi um aukakröfur
 * Skráavinnsla, hægt er að skrifa listann í skrár og lesa í listann úr skrá. (15 stig)
-  - Hér er þægilegast að hver klasi kunni að skrifa/lesa sig í/úr skrá.
+  - Hér er þægilegast að hver klasi kunni að skrifa sig í skrá og lista klasinn geti lesið skrárnar.
 * Gögnin eru röðuð í listanum. (5 stig)
 * Annað sem ykkur dettur í hug í samráði við kennara.
 
