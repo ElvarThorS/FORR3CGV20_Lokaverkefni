@@ -2,7 +2,6 @@
 Áður en lengra er haldið skalt þú stofna nýtt **private** repo á github og bjóða *gestskoli* inn sem collaberator. Farðu svo inn á Innu og skila slóðinni að repo-inu í **Lokaverkefni** skilahólfið.
 ## Almennar reglur varðandi verkefnið
  - Verkefnið er einstaklingsverkefni. Ef tveir eða fleiri nemendur skila sömu lausnunum er gefið 0 (núll) fyrir þær lausnir.
-   - Athugið að vegna samkomubanns verður ekki boðið upp á hópverkefni þessa önnina.
  - Ef kóði er tekinn af netinu (eða öðrum álíka stöðum) skal taka það fram, benda á hvaðan hann kemur og skrifa skýringar (e. comment) við hverja línu kóðans. Almennt eru ekki gefin stig fyrir kóða sem tekinn er af netinu en hann getur samt gefið örfá stig ef hann er t.d. til að bæta útlit forritsins.
  - Ekki er heimilt að nota tilbúnar lausnir fyrir listann. Notið ekki auto og allir bendar (e. pointer) skulu vera hráir (e. raw).
  - Allur kóði skal skrifaður í C++.
