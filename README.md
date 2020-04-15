@@ -25,6 +25,7 @@ Fullkomin lausn á grunnkröfum gefur 60 stig.
   * Það þarf að vera hægt að uppfæra safnkost í listann, hér er nóg að geta uppfært eina gerð af safnkosti.
   * Til einföldunar þá má gera ráð fyrir að titill og höfundur sé alltaf bara eitt orð.
   * Hafðu notendaviðmótið sem svipuðu sniði og í [Flightbooking](https://nam.inna.is/api/Attachment/DownloadFile/407198/536375) æfingaverkefninu.
+* Skipta á hverjum klasa í cpp og h skrár.
 ### Dæmi um aukakröfur
 * Skráavinnsla, hægt er að skrifa listann í skrár og lesa í listann úr skrá. (15 stig)
   - Hér er þægilegast að hver klasi kunni að skrifa sig í skrá og lista klasinn geti lesið skrárnar.
