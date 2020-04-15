@@ -4,7 +4,7 @@
  - Verkefnið er einstaklingsverkefni. Ef tveir eða fleiri nemendur skila sömu lausnunum er gefið 0 (núll) fyrir þær lausnir.
  - Ef kóði er tekinn af netinu (eða öðrum álíka stöðum) skal taka það fram, benda á hvaðan hann kemur og skrifa skýringar (e. comment) við hverja línu kóðans. Almennt eru ekki gefin stig fyrir kóða sem tekinn er af netinu en hann getur samt gefið örfá stig ef hann er t.d. til að bæta útlit forritsins.
  - Ekki er heimilt að nota tilbúnar lausnir fyrir listann. Notið ekki auto og allir bendar (e. pointer) skulu vera hráir (e. raw).
- - Allur kóði skal skrifaður í C++.
+ - Allur kóði skal skrifaður í C++. Skipta á hverjum klasa í cpp og h skrár.
 ### Skýrsla
 Halda skal utan um verkefnið á github. Þar á að vera allur kóði ásamt dagbók og skýrslu. Í dagbókinni á að halda utan um hvað er gert og hvenær (ef eitthvað er ekki í dagbókinni þá er það ekki í verkefninu). Skýrslan er svo stutt samantekt á dagbókinni á samt útskýringum á hvernig forritið ykkar vinnur. Þar eiga líka að vera leiðbeiningar fyrir viðmótið sem þið skrifið. Skilið einnig stuttu myndbandi (screen recort) þar sem virkni forritsins er sýnd.
 ## Bókasafnskerfi
@@ -25,7 +25,6 @@ Fullkomin lausn á grunnkröfum gefur 60 stig.
   * Það þarf að vera hægt að uppfæra safnkost í listann, hér er nóg að geta uppfært eina gerð af safnkosti.
   * Til einföldunar þá má gera ráð fyrir að titill og höfundur sé alltaf bara eitt orð.
   * Hafðu notendaviðmótið sem svipuðu sniði og í [Flightbooking](https://nam.inna.is/api/Attachment/DownloadFile/407198/536375) æfingaverkefninu.
-* Skipta á hverjum klasa í cpp og h skrár.
 ### Dæmi um aukakröfur
 * Skráavinnsla, hægt er að skrifa listann í skrár og lesa í listann úr skrá. (15 stig)
   - Hér er þægilegast að hver klasi kunni að skrifa sig í skrá og lista klasinn geti lesið skrárnar.
