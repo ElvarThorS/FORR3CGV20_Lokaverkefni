@@ -6,7 +6,7 @@
  - Ekki er heimilt að nota tilbúnar lausnir fyrir listann. Notið ekki auto og allir bendar (e. pointer) skulu vera hráir (e. raw).
  - Allur kóði skal skrifaður í C++. Skipta á hverjum klasa í cpp og h skrár.
 ### Skýrsla
-Halda skal utan um verkefnið á github. Þar á að vera allur kóði ásamt dagbók og skýrslu. Í dagbókinni á að halda utan um hvað er gert og hvenær (ef eitthvað er ekki í dagbókinni þá er það ekki í verkefninu). Skýrslan er svo stutt samantekt á dagbókinni á samt útskýringum á hvernig forritið ykkar vinnur. Þar eiga líka að vera leiðbeiningar fyrir viðmótið sem þið skrifið. Skilið einnig stuttu myndbandi (screen recort) þar sem virkni forritsins er sýnd.
+Halda skal utan um verkefnið á github. Þar á að vera allur kóði ásamt dagbók og skýrslu. Í dagbókinni á að halda utan um hvað er gert og hvenær (ef eitthvað er ekki í dagbókinni þá er það ekki í verkefninu). Skýrslan er svo stutt samantekt á dagbókinni á samt útskýringum á hvernig forritið ykkar vinnur. Þar eiga líka að vera leiðbeiningar fyrir viðmótið sem þið skrifið. Skilið einnig stuttu myndbandi (screen record) þar sem virkni forritsins er sýnd.
 ## Bókasafnskerfi
 Bókasafn Tölvubrautar vantar forrit (skrifað í C++) til að halda utan um safnkost sinn. Í dag eru í bókasafninu bækur, tímarit og myndbönd. Fyrir hver safnkost þarf að skrá *id* (heiltala) og *titil* (strengur) en svo er mismunandi hvað meira er skráð eftir hvernig safnkosturinn er. Fyrir bækur bætist svo við *höfundur* (strengur), fyrir tímarit bætist við *tölublað* (heiltala) og fyrir myndbönd bætist við *lengd* (heiltala) í mínútum. Forritið þarf að geta skráð, uppfært (breytt), eytt og skrifað út á skjá safnkosti sem til eru.
 ### Grunnkröfur
